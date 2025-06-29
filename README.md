@@ -7,6 +7,6 @@ Welcome to my github profile,I am aspiring web developer with a keen interest in
 - 💬 Ask me about HTML, CSS or beginner JavaScript problems.
 - 📫 How to reach me: ashmigupta42@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i ove designing minimalist UIs  and learning by building small apps.
+- ⚡ Fun fact: i love designing minimalist UIs  and learning by building small apps.
 
 
